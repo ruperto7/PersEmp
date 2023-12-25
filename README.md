@@ -52,15 +52,12 @@ By integrating these habits into your daily life, you can enhance your sense of 
     <td><b style="font-size:30px">Details </b>What are my strengths?, What are my weaknesses, What are my desires, and What are my motivations. What are my values, What are my beliefs, and What are my goals?</td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td><b style="font-size:30px">Self-awareness:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/b745f36e-9126-421f-8d9b-57e90b0b5726>  </td>
+    <td><b style="font-size:30px">Details </b>Invest in your personal and professional development. Read books, attend seminars, take courses, and seek feedback to expand your knowledge and skills.</td>
  </tr>
 </table>
 
-
-
-
-
+ 
 
 
 
