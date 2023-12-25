@@ -48,7 +48,7 @@ By integrating these habits into your daily life, you can enhance your sense of 
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Self-awareness:</b> ![image](https://github.com/ruperto7/PersEmp/assets/19964505/a9cd8936-c201-4386-864e-917c1113b2a5)  </td>
+    <td><b style="font-size:30px">Self-awareness:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/a9cd8936-c201-4386-864e-917c1113b2a5">  </td>
     <td><b style="font-size:30px">Details </b>What are my strengths?, What are my weaknesses, What are my desires, and What are my motivations. What are my values, What are my beliefs, and What are my goals?</td>
  </tr>
  <tr>
