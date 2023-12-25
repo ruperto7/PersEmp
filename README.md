@@ -48,8 +48,10 @@ By integrating these habits into your daily life, you can enhance your sense of 
 |||---|||
 #### Self-awareness: 
 ![image](https://github.com/ruperto7/PersEmp/assets/19964505/a9cd8936-c201-4386-864e-917c1113b2a5) 
+****
 #### Details
 What are my strengths?, What are my weaknesses, What are my desires, and What are my motivations. What are my values, What are my beliefs, and What are my goals?
+****
 |||---|||
 
 
