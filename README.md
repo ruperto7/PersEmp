@@ -59,8 +59,8 @@ By integrating these habits into your daily life, you can enhance your sense of 
  </tr>
  
  <tr>
-    <td><b style="font-size:30px">Set clear goals:</b> <img src=" https://github.com/ruperto7/PersEmp/assets/19964505/fb0fc629-bb21-4f12-9f0a-3abb96103b78 ">  </td>
-  <td><b style="font-size:30px">Goals Metrics:</b> <img src=" https://github.com/ruperto7/PersEmp/assets/19964505/7c453a47-3336-4496-afed-53cf094c9311 ">  </td>
+    <td><b style="font-size:30px">Set clear goals:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/fb0fc629-bb21-4f12-9f0a-3abb96103b78">  </td>
+  <td><b style="font-size:30px">Goals Metrics:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/7c453a47-3336-4496-afed-53cf094c9311">  </td>
     <td><b style="font-size:30px">Details </b>What do you want to achieve? Create actionable steps to get there. Break down large goals into smaller, manageable tasks.</td>
  </tr>
  
