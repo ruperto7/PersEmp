@@ -63,10 +63,14 @@ By integrating these habits into your daily life, you can enhance your sense of 
   <td><b style="font-size:30px">Goals Metrics:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/7c453a47-3336-4496-afed-53cf094c9311">  </td>
     <td><b style="font-size:30px">Details </b>What do you want to achieve? Create actionable steps to get there. Break down large goals into smaller, manageable tasks.</td>
  </tr>
+
+  <tr>
+    <td><b style="font-size:30px">Take responsibility:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/bc63af1c-90e9-4a93-b8b1-b6b538b30c5e">  </td>
+    <td><b style="font-size:30px">Details </b>Accept responsibility for your actions, decisions, and their consequences. Avoid playing the victim or blaming others.</td>
+ </tr>
  
 </table>
- 
-
+   
 
 
 
