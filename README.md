@@ -45,6 +45,9 @@ Instead of waiting for opportunities to come to you, actively seek them out. Be 
 
 By integrating these habits into your daily life, you can enhance your sense of empowerment, take control of your destiny, and create a life that aligns with your values, passions, and aspirations.
 
+![image](https://github.com/ruperto7/PersEmp/assets/19964505/a9cd8936-c201-4386-864e-917c1113b2a5)
+
+
 
 
 
