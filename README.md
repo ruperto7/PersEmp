@@ -48,7 +48,7 @@ By integrating these habits into your daily life, you can enhance your sense of 
 
 <table border="0">
  <th>
-  <td>1</td><td>2</td><td>Details</td><td>Keywords</td>
+   <tr><td>1</td><td>2</td><td>Details</td><td>Keywords</td> </tr>
  </th>
  <tr>
     <td><b style="font-size:30px">Self-awareness:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/a9cd8936-c201-4386-864e-917c1113b2a5">  </td>
