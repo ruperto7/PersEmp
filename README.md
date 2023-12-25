@@ -44,20 +44,12 @@ Acknowledge and celebrate your achievements, no matter how small. Recognize your
 Instead of waiting for opportunities to come to you, actively seek them out. Be proactive in identifying and pursuing opportunities for growth, learning, and advancement.
 
 By integrating these habits into your daily life, you can enhance your sense of empowerment, take control of your destiny, and create a life that aligns with your values, passions, and aspirations.
-
-|||---|||
-#### Self-awareness: 
-![image](https://github.com/ruperto7/PersEmp/assets/19964505/a9cd8936-c201-4386-864e-917c1113b2a5) 
-****
-#### Details
-What are my strengths?, What are my weaknesses, What are my desires, and What are my motivations. What are my values, What are my beliefs, and What are my goals?
-****
-|||---|||
+ 
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Self-awareness:</b> ![image](https://github.com/ruperto7/PersEmp/assets/19964505/a9cd8936-c201-4386-864e-917c1113b2a5)  </td>
+    <td><b style="font-size:30px">Details </b>What are my strengths?, What are my weaknesses, What are my desires, and What are my motivations. What are my values, What are my beliefs, and What are my goals?</td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
