@@ -47,10 +47,6 @@ By integrating these habits into your daily life, you can enhance your sense of 
  
 
 <table border="0">
-  <tr>
-    <td><b style="font-size:30px">Continuous learning:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/b745f36e-9126-421f-8d9b-57e90b0b5726>  </td>
-    <td><b style="font-size:30px">Details </b>Invest in your personal and professional development. Read books, attend seminars, take courses, and seek feedback to expand your knowledge and skills.</td>
- </tr>
  
  <tr>
     <td><b style="font-size:30px">Self-awareness:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/a9cd8936-c201-4386-864e-917c1113b2a5">  </td>
@@ -58,7 +54,7 @@ By integrating these habits into your daily life, you can enhance your sense of 
  </tr>
  
  <tr>
-    <td><b style="font-size:30px">Continuous learning:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/b745f36e-9126-421f-8d9b-57e90b0b5726>  </td>
+    <td><b style="font-size:30px">Continuous learning:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/b745f36e-9126-421f-8d9b-57e90b0b5726">  </td>
     <td><b style="font-size:30px">Details </b>Invest in your personal and professional development. Read books, attend seminars, take courses, and seek feedback to expand your knowledge and skills.</td>
  </tr>
  
