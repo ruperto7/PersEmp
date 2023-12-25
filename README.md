@@ -54,6 +54,17 @@ What are my strengths?, What are my weaknesses, What are my desires, and What ar
 ****
 |||---|||
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 
 
 
