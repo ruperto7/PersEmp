@@ -60,6 +60,8 @@ By integrating these habits into your daily life, you can enhance your sense of 
  <tr>
     <td><b style="font-size:30px">Continuous learning:</b> <img src="https://github.com/ruperto7/PersEmp/assets/19964505/b745f36e-9126-421f-8d9b-57e90b0b5726">  </td>
     <td><b style="font-size:30px">Details </b>Invest in your personal and professional development. Read books, attend seminars, take courses, and seek feedback to expand your knowledge and skills.</td>
+    <td> </td><td>personal development, professional development, read books, attend seminars, take courses, seek feedback, expand your knowledge, expand your skills</td>
+    
  </tr>
  
  <tr>
